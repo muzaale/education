@@ -3321,33 +3321,7 @@ Abimereki Muzaale: you are the recordings.
 <p>Request: simulate data as follows y-axis number of teachers, x-axis the distance from urban areas that the school is. produce a scatter-gram for schools from (Uganda - red, Botswana - blue, Kenya - yellow). in general the further the school is from the urban areas, the fewer the teachers (in inequitable area). lets say Uganda is the most equitable, Kenya the least (student-teacher ratio as)</p>
 <hr class="docutils" />
 <p>Certainly! We can simulate data according to the description and create a scatter plot to visualize it. Here’s a code snippet that should help:</p>
-<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
-<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
-
-<span class="c1"># Simulating the distance from urban areas (x-axis)</span>
-<span class="n">distance</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">100</span><span class="p">,</span> <span class="mi">100</span><span class="p">)</span>
-
-<span class="c1"># Simulating the number of teachers for Uganda (red), more equitable, so lesser slope</span>
-<span class="n">teachers_uganda</span> <span class="o">=</span> <span class="mi">200</span> <span class="o">-</span> <span class="n">distance</span> <span class="o">*</span> <span class="mf">1.5</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">normal</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">distance</span><span class="p">))</span>
-
-<span class="c1"># Simulating the number of teachers for Botswana (blue), moderately equitable</span>
-<span class="n">teachers_botswana</span> <span class="o">=</span> <span class="mi">200</span> <span class="o">-</span> <span class="n">distance</span> <span class="o">*</span> <span class="mi">2</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">normal</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">distance</span><span class="p">))</span>
-
-<span class="c1"># Simulating the number of teachers for Kenya (yellow), least equitable, so steeper slope</span>
-<span class="n">teachers_kenya</span> <span class="o">=</span> <span class="mi">200</span> <span class="o">-</span> <span class="n">distance</span> <span class="o">*</span> <span class="mf">2.5</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">normal</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">distance</span><span class="p">))</span>
-
-<span class="c1"># Creating a scatter plot for each country</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">distance</span><span class="p">,</span> <span class="n">teachers_uganda</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s2">&quot;red&quot;</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;Uganda&quot;</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">distance</span><span class="p">,</span> <span class="n">teachers_botswana</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s2">&quot;blue&quot;</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;Botswana&quot;</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">distance</span><span class="p">,</span> <span class="n">teachers_kenya</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s2">&quot;yellow&quot;</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;Kenya&quot;</span><span class="p">)</span>
-
-<span class="c1"># Adding labels and a legend</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s2">&quot;Distance from Urban Areas&quot;</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s2">&quot;Number of Teachers&quot;</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">legend</span><span class="p">()</span>
-
-<span class="c1"># Display the plot</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>see below
 </pre></div>
 </div>
 <p>In this code, we’ve created data that generally follows the pattern that the further a school is from urban areas, the fewer the teachers. The slopes of the relationships differ between countries, reflecting the levels of equity described, with Uganda having the most equitable distribution and Kenya the least. The scatter plot is colored accordingly, with red for Uganda, blue for Botswana, and yellow for Kenya.</p>
