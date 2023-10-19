@@ -13,3 +13,29 @@ Can't we use this narrative for AI and education in low income countries:
 - Then can't we by analogy go ahead with a PEPFAR equivalent for education:
 - Making ChatGPT and other AI supported application accesible?
 - Especially in settings beset by a student: teacher ratio > XX?
+
+Which brings us to the main issue:
+- Truth?
+- Knowledge?
+- Ethics?
+- What is the purpose of education?
+- For settings with high student: teacher ratio AI serves an `empowering`, ethical end
+
+---
+
+# veritas
+
+1. Truth/Voir/Whineth, $\Large \int_{-\infty}^{+\infty}\partial y$
+   - Everything that is seen, smelt, heard, tasted, felt; verb: to see
+   - But within a hierarchical system these inputs are [selectively biased](https://www.nytimes.com/2023/10/18/us/harvard-students-israel-hamas-doxxing.html)
+   - Time span, distribution of characteristics, estimates of incidents, measurement, censorship
+     
+2. Knowledge/Savoir/Tameth, $\Large \int_{j}^{k} \partial y \partial x$
+   - Underlying hypothesis that truth is some constant; verb: to be
+   - Alternative is that you never step in the same river twice
+   - But really its the rates of change, $\frac{\partial y}{\partial x}$
+3. Ethics/Pouvoir/Hideth, $\Large \int_{Evil}^{Good} \partial x$
+   - Proverbs 27:12
+   - Shepherd with rod & staff protecting lambs from wolves
+   - Verb: to do
+
