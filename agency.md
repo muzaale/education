@@ -13,7 +13,7 @@ Hierarchy: competitive advantage in innovation, production, regulation of AI cha
       - Innovation: educators may be informed by our discussion on how to approach the innovators and engage them for the sake of education 
       - Production: recognize that the frenzy following chatbots are only the beginning. Humanoid AI-powered robots are coming and nations are going to push to have a competitive edge 
       - Regulation. Most regulators have no clue what they’re trying to regulate. So we provide a validated, generalizable approach that’s transparent and easy to adapt to education: agency theory
-    
+
 ---
 
   Checklist for structure of essay
