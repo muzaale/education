@@ -16,7 +16,7 @@ Hierarchy: competitive advantage in innovation, production, regulation of AI cha
 
 ---
 
-  Checklist for structure of essay
+  Checklist for structure of essay: create links and bibliography to everything i've read
 
   I understand your perspective of viewing AI as an "Agent" and teachers or parents as the "Principal" in the context of education, applying agency theory for evaluation. This unique perspective indeed allows for innovative approaches and regulatory considerations in a familiar framework. Evaluating AI using agency theory principles can help ensure accountability and effectiveness in educational settings.
 
