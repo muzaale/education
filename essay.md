@@ -2,7 +2,7 @@
 AI in Education: Navigating the Future through Agency Theory and Checklists
 
 **Introduction:** 
-In the wake of the groundbreaking [success of ChatGPT](https://www.demandsage.com/wp-content/uploads/2023/09/Road-To-100-Million-Users-For-Various-Platforms.png), the debate surrounding the role of Artificial Intelligence [(AI) in education](https://www.unesco.org/en/articles/generative-artificial-intelligence-education-what-are-opportunities-and-challenges) has intensified. Is AI merely a tool, or is it [an agent with responsibilities](https://www.youtube.com/watch?v=b2uEAgLeOzA) and duties? Drawing parallels from aviation and medicine, where [checklists have been instrumental](https://www.newyorker.com/magazine/2007/12/10/the-checklist) in reducing failure rates, we propose a framework grounded in agency theory to evaluate and integrate AI in education.
+In the wake of the groundbreaking [success of ChatGPT](https://www.demandsage.com/wp-content/uploads/2023/09/Road-To-100-Million-Users-For-Various-Platforms.png), the debate surrounding the role of Artificial Intelligence [(AI) in education](https://www.unesco.org/en/articles/generative-artificial-intelligence-education-what-are-opportunities-and-challenges) has intensified. Is AI merely a tool, or is it [an agent with responsibilities and duties?](https://www.youtube.com/watch?v=b2uEAgLeOzA) Drawing parallels from aviation and medicine, where [checklists have been instrumental](https://www.newyorker.com/magazine/2007/12/10/the-checklist) in reducing failure rates, we propose a framework grounded in agency theory to evaluate and integrate AI in education.
 
 **Section 1: The Role of AI - Beyond a Tool:** 
 - **Brief overview:** The rapid advancements in AI, exemplified by ChatGPT.
