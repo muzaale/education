@@ -1,4 +1,4 @@
-AI in Education: Navigating the Future with Agency Theory and Checklists**
+**AI in Education: Navigating the Future with Agency Theory and Checklists**
 
 **Introduction:** 
 The rise of Artificial Intelligence (AI) in education, epitomized by the success of ChatGPT, has spurred global debate. Is AI merely an instrument, or should it be considered an agent bearing responsibilities? Drawing from aviation and medicine, where checklists have reduced errors, we offer a framework, rooted in agency theory, to understand and incorporate AI into education.
